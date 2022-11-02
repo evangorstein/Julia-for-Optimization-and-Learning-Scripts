@@ -2,7 +2,7 @@ using Pkg
 Pkg.activate(pwd())
 
 # # Variables
-
+y=7
 x = 2
 typeof(x)
 
